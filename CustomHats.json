@@ -4,7 +4,15 @@
         {
             "author": "bluegreensea",
             "condition": "None",
-            "name": "Hi",
+            "name": "announce",
+            "package": "Translator Hats",
+            "reshasha": "41d124a27cce0604d50e150a343e429c",
+            "resource": "t_announce.png"
+        },
+        {
+            "author": "bluegreensea",
+            "condition": "None",
+            "name": "ice",
             "package": "Translator Hats",
             "reshasha": "814cb1589bfa25fdda70b256a22cef49",
             "resource": "t_ice.png"
@@ -12,7 +20,7 @@
         {
             "author": "bluegreensea",
             "condition": "None",
-            "name": "200$/10min",
+            "name": "bamboo",
             "package": "Translator Hats",
             "reshasha": "d413905b9497e0a8f6d40871ce77b260",
             "resource": "t_bamboo_stage0.png"
