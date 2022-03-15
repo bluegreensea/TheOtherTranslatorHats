@@ -14,8 +14,17 @@
             "condition": "None",
             "name": "200$/10min",
             "package": "Translator Hats",
-            "reshasha": "e8739ebf4b21b1aa8750a7f97b6521b8",
+            "reshasha": "d413905b9497e0a8f6d40871ce77b260",
             "resource": "t_bamboo_stage0.png"
+        },
+        {
+            "author": "bluegreensea",
+            "bounce": true,
+            "condition": "None",
+            "name": "bobo ears",
+            "package": "Translator Hats",
+            "reshasha": "93fcf00d23b7933074e594ece107fba5",
+            "resource": "t_bobo_ears.png"
         }
     ]
 } 
