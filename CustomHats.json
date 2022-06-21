@@ -4,14 +4,6 @@
         {
             "author": "bluegreensea",
             "condition": "None",
-            "name": "announce",
-            "package": "Translator Hats",
-            "reshasha": "3152a6bc0d915412c758a0177d45d2b1",
-            "resource": "t_announce.png"
-        },
-        {
-            "author": "bluegreensea",
-            "condition": "None",
             "name": "ice",
             "package": "Translator Hats",
             "reshasha": "814cb1589bfa25fdda70b256a22cef49",
