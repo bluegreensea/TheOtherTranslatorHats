@@ -25,6 +25,14 @@
             "package": "Translator Hats",
             "reshasha": "93fcf00d23b7933074e594ece107fba5",
             "resource": "t_bobo_ears.png"
+        },
+        {
+            "author": "bluegreensea",
+            "condition": "None",
+            "name": "bee",
+            "package": "Translator Hats",
+            "reshasha": "c1bc2b128ccdc566a9fe5bd388975b2c",
+            "resource": "t_beeh.png"
         }
     ]
 } 
