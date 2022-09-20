@@ -33,6 +33,25 @@
             "package": "Translator Hats",
             "reshasha": "c1bc2b128ccdc566a9fe5bd388975b2c",
             "resource": "t_beeh.png"
+        },
+        {
+            "adaptive": true,
+            "author": "bluegreensea",
+            "bounce": true,
+            "condition": "None",
+            "name": "cake",
+            "package": "Translator Hats",
+            "reshasha": "1ee030dbb57d5a01e06fde5e7481c661",
+            "resource": "t_cake.png"
+        },
+        {
+            "author": "bluegreensea",
+            "bounce": true,
+            "condition": "None",
+            "name": "melon",
+            "package": "Translator Hats",
+            "reshasha": "aaa69b1383ffc70c7978a8943869505f",
+            "resource": "t_melon.png"
         }
     ]
 } 
