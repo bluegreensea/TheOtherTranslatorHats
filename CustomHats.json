@@ -42,6 +42,33 @@
             "package": "Translator Hats",
             "reshasha": "aaa69b1383ffc70c7978a8943869505f",
             "resource": "t_melon.png"
+        },
+        {
+            "author": "bluegreensea",
+            "bounce": true,
+            "condition": "None",
+            "name": "axolotl",
+            "package": "Translator Hats",
+            "reshasha": "2b96a2ec646dc10c48f7754aa51360a7",
+            "resource": "t_axolotl.png"
+        },
+        {
+            "author": "bluegreensea",
+            "bounce": true,
+            "condition": "None",
+            "name": "redaxe",
+            "package": "Translator Hats",
+            "reshasha": "9f86d6afe9f837851521d4f97c60f612",
+            "resource": "t_redaxe.png"
+        },
+        {
+            "author": "bluegreensea",
+            "bounce": true,
+            "condition": "None",
+            "name": "christmas hat",
+            "package": "Translator Hats",
+            "reshasha": "77fbd12c906c1696eae8c986f4ad0b06",
+            "resource": "t_xmashat.png"
         }
     ]
 } 
