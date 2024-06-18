@@ -69,6 +69,15 @@
             "package": "Translator Hats",
             "reshasha": "77fbd12c906c1696eae8c986f4ad0b06",
             "resource": "t_xmashat.png"
+        },
+        {
+            "author": "bluegreensea",
+            "bounce": true,
+            "condition": "None",
+            "name": "chocowhite ears",
+            "package": "Translator Hats",
+            "reshasha": "b0b51439a68f3eb526854f3e0fcfb7fd",
+            "resource": "t_chocowhite_ears.png"
         }
     ]
 } 
